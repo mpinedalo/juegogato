@@ -1,8 +1,8 @@
 Juego gato o también llamado Ta-Te-Ti
 Creado por Mario Pineda el 26-06-2020.
 
-Les comparto programa desarrollado en Python dentro de un taller de programación para dicho lenguaje
-el objetivo de este programa es aplicar Matrices y Listas en Phyton
+Les comparto programa desarrollado en python dentro de un taller,
+el objetivo de este programa es aplicar matrices y listas en Phyton
 
 ! Espero que les sirva !
 
